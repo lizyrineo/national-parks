@@ -52,7 +52,7 @@ Each park will display the park map
 
 ## Project Schedule
 
-
+```
 |  Day | Deliverable                                        | Status      
 |Nov 9 | Prompt / Wireframes / Priority Matrix / Timeframes | Complete
 |Nov 10| Project Approval                                   | Complete
@@ -60,13 +60,13 @@ Each park will display the park map
 |Nov 13| Pseudocode / actual code                           | Complete
 |Nov 16| MVP                                                | Complete
 |Nov 17| Presentations                                      | Complete
-
+```
 ## Priority Matrix
  
 <img src = "./matrix.png>
 
 ## Timeframes
-
+```
 | Component                | Priority| Estimated Time | Time Invested| Actual Time|
 | -------------------------|:--------:|:-------------:|:------------:|:----------:| 
 | HTML structure           | H        |  1hr          |   1hr        |   1hr      |
@@ -80,7 +80,7 @@ Each park will display the park map
 | JS images for parks      | H        |  2hr          |   1.5hr      |   1.5hr    |
 | JS Create links          | H        |  4hr          |   3hrs       |   3hrs     |
 
-
+```
 
 ## Code Snippet
 
